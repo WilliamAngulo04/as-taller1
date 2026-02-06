@@ -32,7 +32,7 @@ as-taller1/
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/UR-CC/as-taller1.git
+https://github.com/WilliamAngulo04/as-taller1
 cd as-taller1
 
 # Crear entorno virtual
