@@ -54,7 +54,7 @@ pip install -r requirements.txt
 - **Ubicación**: `01_sockets/`
 - **Descripción**: Implementación básica de comunicación cliente-servidor con sockets
 - **Características**:
-  - _elabora la documentación_
+  - 
   - ...
   - ...
 
